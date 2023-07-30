@@ -1,0 +1,10 @@
+opencv-contrib-python==4.1.2.30
+opencv-python==4.1.2.30
+timm
+pybind11
+imageio
+einops
+scikit-image
+scikit-learn
+git+https://github.com/cocodataset/panopticapi.git
+

@@ -1,0 +1,6 @@
+pydijkstra.cpp
+setup.py
+pydijkstra.egg-info/PKG-INFO
+pydijkstra.egg-info/SOURCES.txt
+pydijkstra.egg-info/dependency_links.txt
+pydijkstra.egg-info/top_level.txt
