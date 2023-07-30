@@ -68,7 +68,7 @@
 We use Pascal VOC and COCO datasets, please see [Preparing datasets](./data/README.md) for Point2Mask. 
 
 
-## Demo
+### Demo
 To test our model with an input image, please run `demo.py`
 ```shell
 python  demo.py --config-file ./configs/point2mask/voc/point2mask_voc_wsup_r50.py --weights /path/to/coco_r50.pth --input image.jpg --out-file prediction.jpg
