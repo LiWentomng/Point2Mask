@@ -1,7 +1,7 @@
 # Point2Mask: Point-supervised Panoptic Segmentation via Optimal Transport
 > [Wentong Li](https://cslwt.github.io/), Yuqian Yuan, Song Wang, Jianshu Li, Jian Liu, [Jianke Zhu](https://person.zju.edu.cn/jkzhu), and [Lei Zhang](https://www4.comp.polyu.edu.hk/~cslzhang/)
 >
-> **[Paper](https://arxiv.org/pdf/.pdf) (arXiv). ICCV2023.**
+> **[Paper](https://arxiv.org/pdf/2308.01779.pdf) (arXiv). ICCV2023.**
 
 
 <img src="./data/point2mask.jpg" width="800px">
@@ -103,8 +103,6 @@ CUDA_VISIBLE_DEVICE=0 tools/dist_test.sh configs/point2mask/voc/point2mask_voc_w
 
 
 <img src="./data/visualization.jpg" width="800px">
-
-
 
 
 ## Acknowledgement
