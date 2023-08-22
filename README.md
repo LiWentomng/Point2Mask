@@ -110,7 +110,16 @@ Code is largely based on [PSPS](https://github.com/BraveGroup/PSPS), [Panoptic S
 Thanks for their great open-source projects! 
 
 
+## Citation
 
+```BibTeX
+@inproceedings{point2mask,
+  title={Point2Mask: Point-supervised Panoptic Segmentation via Optimal Transport},
+  author={Wentong Li, Yuqian Yuan, Song Wang, Jianke Zhu, Jianshu Li, Jian Liu and Lei Zhang},
+  booktitle={Proceedinngs of IEEE International Conference on Computer Vision},
+  year={2023}
+}
+```
 
 
     
