@@ -100,10 +100,12 @@ For visual results:
 ```shell
 CUDA_VISIBLE_DEVICE=0 tools/dist_test.sh configs/point2mask/voc/point2mask_voc_wsup_r50.py work_dirs/xxx.pth 1 --show-dir xxx
 ```
-
-
+### Visual Examples
+Visual Results on COCO with ResNet-101.
 <img src="./data/visualization.jpg" width="800px">
 
+Visualization of the `learning high-level boundary map`.
+<img src="./data/highlevel_bundary_map.png" width="800px">
 
 ## Acknowledgement
 Code is largely based on [PSPS](https://github.com/BraveGroup/PSPS), [Panoptic Segformer](https://github.com/zhiqi-li/Panoptic-SegFormer), [MMdetection](https://github.com/open-mmlab/mmdetection).  
